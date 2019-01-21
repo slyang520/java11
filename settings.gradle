@@ -1,0 +1,4 @@
+rootProject.name = 'hellojava11'
+include 'modulecore'
+include 'slyangAPP'
+
